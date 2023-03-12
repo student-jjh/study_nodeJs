@@ -4,7 +4,7 @@ const express = require('express');
 
 const app = express();
 
-const users = ["TOM","ANDY","joonHyeok"];
+const users = ["TOM","ANDY","joonHyeok",'codeit','ss'];
 
 // let server = http.createServer(function (request,response){
 //     // response.end("<h1>Hello world</h1>");

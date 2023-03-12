@@ -2,5 +2,14 @@
   "dependencies": {
     "cowsay": "^1.5.0",
     "express": "^4.18.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "study_express",
+  "description": "just study of node js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
 }
